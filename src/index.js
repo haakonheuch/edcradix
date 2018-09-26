@@ -98,6 +98,6 @@ if (apiKey === '') {
 }
 
 //Starting webserver
-app.listen(port, () => console.log('YO. Quote app is listening on port %s!', port))
+app.listen(port, () => console.log('YOLO. Quote app is listening on port %s!', port))
 
 module.exports = normalizePort;
